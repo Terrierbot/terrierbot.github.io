@@ -1,4 +1,5 @@
 # Site settings
+remote_theme: aksakalli/jekyll-doc-theme@gh-pages 
 title: Jekyll Doc Theme
 email: your-email@domain.com
 description: >
@@ -7,9 +8,9 @@ description: >
 lang: en-US
 
 baseurl: "/jekyll-doc-theme" # the subpath of your site, e.g. /blog/
-url: https://aksakalli.github.io/jekyll-doc-theme # the base hostname & protocol for your site
-git_address: https://github.com/aksakalli/jekyll-doc-theme
-git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
+url: https://terrierbot.com/ # the base hostname & protocol for your site
+git_address: https://github.com/Terrierbot/terrierbot.github.io/
+git_edit_address: https://github.com/Terrierbot/terrierbot.github.io/edit/master/
 
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap
