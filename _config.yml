@@ -1,6 +1,6 @@
 # Site settings
 remote_theme: aksakalli/jekyll-doc-theme@gh-pages 
-title: Terrierbot Docs
+title: Terrierbot
 email: ''
 description: >
   A bot that allows for external plugins written in any dotnet-compatible languages.
