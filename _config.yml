@@ -3,7 +3,7 @@ remote_theme: aksakalli/jekyll-doc-theme@gh-pages
 title: Terrierbot
 email: ''
 description: >
-  A bot that allows for external plugins written in any dotnet-compatible languages.
+  Quickly create plugins for chat commands and background services in any dotnet-compatible language.
 lang: en-US
 
 baseurl: "" # the subpath of your site, e.g. /blog/
